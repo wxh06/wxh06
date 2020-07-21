@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### [Social](https://wxh06.github.io)
-[![GitHub](https://img.shields.io/github/followers/wxh06?style=social)](https://github.com/wxh06)
-<img secret="https://img.shields.io/twitter/follow/wxh06?style=social" />
+[![GitHub @wxh06](https://img.shields.io/github/followers/wxh06?label=GitHub%20@wxh06&style=social)](https://github.com/wxh06)
+[![Twitter @wxh06](https://img.shields.io/twitter/follow/wxh06?label=Twitter%20@wxh06&style=social)](https://twitter.com/wxh06)
+[![GitLab @wangxinhe](https://img.shields.io/static/v1?logo=gitlab&label=GitLab&message=wangxinhe)](https://gitlab.com/wangxinhe)
 
 #### [Featured repos](https://github.com/wxh06?tab=repositories)
-[![wxh06/dockerjudge - GitHub](https://gh-card.dev/repos/wxh06/dockerjudge.svg)](https://github.com/wxh06/dockerjudge)
+- [dockerjudge](https://github.com/wxh06/dockerjudge)
