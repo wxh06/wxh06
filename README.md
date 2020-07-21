@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Social
+[![GitHub](https://img.shields.io/github/followers/wxh06?style=social)](https://github.com/wxh06)
+[![Twitter](https://img.shields.io/twitter/follow/wxh06?style=social)](https://twitter.com/wxh06)
