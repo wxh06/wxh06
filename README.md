@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![汪心禾's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxh06&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh06&hide=ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### [Social](https://wxh06.github.io)
 [![GitHub @wxh06](https://img.shields.io/github/followers/wxh06?label=GitHub%20@wxh06&style=social)](https://github.com/wxh06)
 [![Twitter @wxh06](https://img.shields.io/twitter/follow/wxh06?label=Twitter%20@wxh06&style=social)](https://twitter.com/wxh06)
@@ -29,5 +32,3 @@ Here are some ideas to get you started:
 
 #### [Featured repos](https://github.com/wxh06?tab=repositories)
 - [dockerjudge](https://github.com/wxh06/dockerjudge)
-
-[![汪心禾's github stats](https://github-readme-stats.vercel.app/api?username=wxh06&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
