@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 #### [Featured repos](https://github.com/wxh06?tab=repositories)
 - [dockerjudge](https://github.com/wxh06/dockerjudge)
+
+[![汪心禾's github stats](https://github-readme-stats.vercel.app/api?username=wxh06&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
