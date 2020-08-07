@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
 ### Hi there 👋
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh06&hide=ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### [Social](https://wxh06.github.io)
+
 [![GitHub @wxh06](https://img.shields.io/github/followers/wxh06?label=GitHub%20@wxh06&style=social)](https://github.com/wxh06)
 [![Twitter @wxh06](https://img.shields.io/twitter/follow/wxh06?label=Twitter%20@wxh06&style=social)](https://twitter.com/wxh06)
 <br />
@@ -33,4 +34,5 @@ Here are some ideas to get you started:
 [![wangxinhe06@gmail.com](https://img.shields.io/static/v1?logo=gmail&label=Gmail&message=wangxinhe06@gmail.com)](mailto:wangxinhe06@gmail.com)
 
 #### [Featured repos](https://github.com/wxh06?tab=repositories)
+
 - [dockerjudge](https://github.com/wxh06/dockerjudge)
