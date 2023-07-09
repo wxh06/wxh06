@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 MD033 MD041 -->
+<!-- markdownlint-disable MD041 -->
 
 ### Hi there 👋
 
@@ -17,22 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![汪心禾's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxh06&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh06&hide=ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxh06&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangxinhe&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
-#### [Social](https://wxh06.github.io)
+#### [Social](https://wxh.im/)
 
 [![GitHub @wxh06](https://img.shields.io/github/followers/wxh06?label=GitHub%20@wxh06&style=social)](https://github.com/wxh06)
 [![Twitter @wxh06](https://img.shields.io/twitter/follow/wxh06?label=Twitter%20@wxh06&style=social)](https://twitter.com/wxh06)
-<br />
-[![GitLab @wangxinhe](https://img.shields.io/static/v1?logo=gitlab&label=GitLab&message=wangxinhe)](https://gitlab.com/wangxinhe)
-[![PyPI: wangxinhe](https://img.shields.io/static/v1?logo=pypi&label=PyPI&message=wangxinhe)](https://pypi.org/user/wangxinhe/)
-[![Docker Hub: wangxinhe](https://img.shields.io/static/v1?logo=docker&label=Docker%20Hub&message=wangxinhe)](https://hub.docker.com/u/wangxinhe)
-[![QQ 1659133940](https://img.shields.io/static/v1?logo=tencent-qq&label=QQ&message=1659133940)](https://wpa.qq.com/msgrd?uin=1659133940)
-[![知乎 @汪心禾](https://img.shields.io/static/v1?logo=zhihu&label=%E7%9F%A5%E4%B9%8E&message=@%E6%B1%AA%E5%BF%83%E7%A6%BE)](https://www.zhihu.com/people/wangxinhe-2006)
-[![微博 @汪心禾](https://img.shields.io/static/v1?logo=sina-weibo&label=%E5%BE%AE%E5%8D%9A&message=@%E6%B1%AA%E5%BF%83%E7%A6%BE)](https://weibo.com/wxh2006)
-[![wangxinhe06@gmail.com](https://img.shields.io/static/v1?logo=gmail&label=Gmail&message=wangxinhe06@gmail.com)](mailto:wangxinhe06@gmail.com)
 
-#### [Featured repos](https://github.com/wxh06?tab=repositories)
+#### [Projects](https://github.com/wxh06?tab=repositories)
 
-- [dockerjudge](https://github.com/wxh06/dockerjudge)
+- Online judge
+  - [dockerjudge](https://github.com/wxh06/dockerjudge): A Docker-based online judge engine (no longer maintained)
+- Luogu-related (洛谷相关)
+  - [extend-luogu](https://github.com/extend-luogu): [userscript](https://github.com/extend-luogu/extend-luogu) & [backend](https://github.com/extend-luogu/exlg-backend)
+  - [luogu-discussion-archive](https://github.com/piterator-org/luogu-discussion-archive)
+  - [luogu-captcha-bypass](https://github.com/wxh06/luogu-captcha-bypass): CAPTCHA Recognition using Convolutional Neural Network built with TensorFlow
